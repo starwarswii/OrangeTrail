@@ -1,4 +1,4 @@
-Orange Trail
-============
+# Orange Trail
 
-Version of Oregon Trail I made for Lex Hack
+A version of Oregon Trail
+Created for LexHack 2014
